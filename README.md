@@ -48,8 +48,6 @@ Sou Desenvolvedor Full Stack, formado em **Análise e Desenvolvimento de Sistema
 - Versionamento e controle de mudanças (changelog, config flags e hotfixes)
 - Integração contínua de novas features com foco na experiência do usuário
 
-📁 Você pode encontrar por aqui projetos que misturam boas práticas de desenvolvimento com tecnologias modernas, como **React com TypeScript**, **API REST**, automações em **Google Apps Script**, e integrações inteligentes com DOM e requisições assíncronas via `fetch`.
-
 ---
 
 ### 📫 Vamos nos conectar?
